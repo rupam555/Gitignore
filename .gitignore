@@ -3,5 +3,8 @@ new-file.txt
 
 new-file2.txt
 
-#Ignoring directories
+#Ignoring all files in bean directory
 bean/
+
+#Ignoring all .tmp file (* is wild card that signify any no of characters)
+*.tmp
