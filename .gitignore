@@ -1,6 +1,4 @@
 # Ignoreing single file
-new-file.txt
-
 new-file2.txt
 
 #Ignoring all files in bean directory
